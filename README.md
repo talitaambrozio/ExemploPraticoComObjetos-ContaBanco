@@ -6,3 +6,5 @@ Exemplos práticos com objetos desenvolvidos em Java referente à aula do Prof. 
 2- Exemplo Encapsulamento - Controle Remoto
 
 3- Exemplo Relacionamento entre Classes - UEC
+
+4- Exemplo Herança
