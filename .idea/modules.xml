@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExemploPraticoContaBanco.iml" filepath="$PROJECT_DIR$/ExemploPraticoContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploPraticoComObjetosJava.iml" filepath="$PROJECT_DIR$/ExemploPraticoComObjetosJava.iml" />
     </modules>
   </component>
 </project>
